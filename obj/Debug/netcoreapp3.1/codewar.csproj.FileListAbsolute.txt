@@ -1,0 +1,13 @@
+/home/ivan/dotnet_project/codewar/bin/Debug/netcoreapp3.1/codewar
+/home/ivan/dotnet_project/codewar/bin/Debug/netcoreapp3.1/codewar.deps.json
+/home/ivan/dotnet_project/codewar/bin/Debug/netcoreapp3.1/codewar.runtimeconfig.json
+/home/ivan/dotnet_project/codewar/bin/Debug/netcoreapp3.1/codewar.runtimeconfig.dev.json
+/home/ivan/dotnet_project/codewar/bin/Debug/netcoreapp3.1/codewar.dll
+/home/ivan/dotnet_project/codewar/bin/Debug/netcoreapp3.1/codewar.pdb
+/home/ivan/dotnet_project/codewar/obj/Debug/netcoreapp3.1/codewar.csprojAssemblyReference.cache
+/home/ivan/dotnet_project/codewar/obj/Debug/netcoreapp3.1/codewar.AssemblyInfoInputs.cache
+/home/ivan/dotnet_project/codewar/obj/Debug/netcoreapp3.1/codewar.AssemblyInfo.cs
+/home/ivan/dotnet_project/codewar/obj/Debug/netcoreapp3.1/codewar.csproj.CoreCompileInputs.cache
+/home/ivan/dotnet_project/codewar/obj/Debug/netcoreapp3.1/codewar.dll
+/home/ivan/dotnet_project/codewar/obj/Debug/netcoreapp3.1/codewar.pdb
+/home/ivan/dotnet_project/codewar/obj/Debug/netcoreapp3.1/codewar.genruntimeconfig.cache
