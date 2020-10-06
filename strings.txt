@@ -1,0 +1,27 @@
+//System.Console.WriteLine($"\nvalue: {n}");
+            if (n == 0) return null;
+            int max = (int)Math.Sqrt(n);
+            int result = 0;            
+            int HalfN = n / 2 + 1;
+            //System.Console.WriteLine("Max: " + max);
+            for (int down = max; down > 1; down--)
+            {
+                //sB.Clear();
+                int up = 2;
+                do
+                {
+                    result = (int)Math.Pow(down, up);
+                    //sB.Append(string.Format("{0} ", result));
+                    if (result == n)
+                    {
+                        //System.Console.WriteLine(sB.ToString());
+                        //System.Console.WriteLine($"result: {down} {up}");
+                        return (down, up);
+                    }
+                    up++;
+                }
+                while( result < HalfN);
+                //System.Console.WriteLine(sB.ToString());
+            }
+            //System.Console.WriteLine("return: null");
+            return null;
